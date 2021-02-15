@@ -25,7 +25,7 @@ SECRET_KEY = '7sufp7(o&o)itfpe7k1u(9trvc^2==pn4!l$zous3ip(_^9fyo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','google-map-django.herokuapp.com/]
 
 
 # Application definition
